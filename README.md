@@ -15,7 +15,7 @@ Demo code for the paper "Differentially Private Online Transfer Learning for Rei
 - env1.py is used to test the performance of Reinforcement Learning Method.
 - env2.py is used to test the performance of Differetially Private Online Transfer Learning Method.
 - env3.py is used to test the performance of Differetially Private Online Transfer Learning Method with Malicious Agent.
-#### To test the performance of Random Method in all the three experiments, you need to open env1.py in the three experiment folders and then toggle comment for the following line:
+#### To test the performance of Random Method in all the three experiments, you need to open env1.py in the three experiment folders and then toggle comment at the following lines:
 - "file = open('Ex#Random.txt','w')"
 - "filename = "ExWithoutTL(" + currentDT.strftime("%H-%M-%S %Y-%m-%d") + ").txt""
 - "file = open(filename,'w')"
