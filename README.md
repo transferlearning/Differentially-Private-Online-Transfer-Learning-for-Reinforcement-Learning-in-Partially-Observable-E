@@ -1,4 +1,4 @@
-# Differentially-Private-Online-Transfer-Learning-for-Reinforcement-Learning-in-Partially-Observable-E
+# Differentially-Private-Online-Transfer-Learning-for-Reinforcement-Learning-in-Partially-Observable-Environment
 Demo code for the paper "Differentially Private Online Transfer Learning for Reinforcement Learning in Partially Observable Environment"
 
 ### Required Dependencies:
