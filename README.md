@@ -7,6 +7,12 @@ Demo code for the paper "Differentially Private Online Transfer Learning for Rei
 
 ### Notes:
 #### 1. Introduction:
+#### There are 4 objects in each environments:
+White cells represent a vacant space.
+Red cells represent robots.
+Grey cells represent rubbish or victims.
+Black cells represent barriers.
+
 #### There are 3 experiments included in the demo code.
 - Ex1 is the environment that robots collecting the rubbish at static positions.
 - Ex2 is the environment that has a probability of generating new rubbish at each step.
